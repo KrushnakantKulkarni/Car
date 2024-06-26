@@ -15,7 +15,8 @@ Detailed Product Information: Each product page includes high-quality images, de
 Secure Checkout: Advanced security measures ensure a safe and reliable transaction process.
 Order Tracking: Customers can easily track their orders from purchase to delivery.
 Customer Support: Access to dedicated customer support for assistance with orders and product information.
-Technologies Used
+Technologies Used 
+
 Frontend: HTML, CSS, JavaScript, Bootstrap
 Backend: Django
 Database: SQL
